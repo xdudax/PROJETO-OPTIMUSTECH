@@ -1,0 +1,206 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    background-color: #fff;
+    font-family: "Open Sans", sans-serif;
+    margin: -7px;
+}
+
+.menu ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding: 0%;
+    margin: 0%;
+}
+
+.menu a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #2b2d42;
+}
+
+.user-acess a {
+    text-decoration: none;
+    margin-left: 15px;
+    gap: 10px;
+}
+
+.user-login {
+    color: #2b2d42;
+}
+
+.botao-destaque {
+    border-radius: 5px;
+    background-color: #c8102e;
+    color: #fff;
+    padding: 8px 16px;
+    font-weight: bold;
+}
+
+.cabeçalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+.cabeçalho-destaque {
+    padding-top: 30px;
+    color: #c8102e;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.cabeçalho-titulo {
+    margin-top: -10px;
+}
+
+.cabeçalho-texto {
+    margin: 0 auto;
+    color: #2b2d42;
+    width: 700px;
+    text-align: center;
+}
+
+.metricas {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 50px;
+    font-family: "Open Sans", sans-serif;
+    margin: 80px 70px 90px 70px;
+}
+
+
+.metrica-titulo {
+    font-size: 60px;
+    color: #c8102e;
+}
+
+.metrica-subtitulo {
+    font-size: 15px;
+    margin-top: -30px;
+}
+
+.metrica-texto {
+    font-size: 14px;
+    color: #2b2d42;
+}
+
+.anuncio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Open Sans", sans-serif;
+}
+
+.anuncio-vagas {
+    color: #c8102e;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: #e6e8eb;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+
+.anuncio-titulo {
+    margin-top: -10px;
+}
+
+.anuncio-texto {
+    margin: 0 auto;
+    color: #2b2d42;
+    text-align: center;
+}
+
+.vagas {
+    font-family: "Open Sans", sans-serif;
+}
+
+.vagas-abertas {
+    border-style: solid;
+    border-color: #e6e8eb;
+    border-radius: 15px;
+    padding: 10px 40px 10px 40px;
+    border-width: 2px;
+
+}
+
+.vagas-adicionais {
+    border-style: solid;
+    border-color: #e6e8eb;
+    border-radius: 15px;
+    padding: 10px 40px 10px 40px;
+    border-width: 2px;
+    display: flex;
+    align-items: center;
+    font-weight: 300;
+}
+
+.vagas-categoria {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+    margin-left: 40px;
+    font-size: 1.5em;
+}
+
+.vagas-tipo,
+.vagas-salario {
+    display: inline-block;
+    margin-right: 16px;
+    font-weight: 300;
+
+}
+
+.container-flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container-flex_secundario {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0 25px;
+}
+
+.vagas-titulo {
+    color: #c8102e;
+}
+
+.container-adicional {
+    text-decoration: none;
+    color: #2b2d42;
+    font-size: 50px;
+}
+
+.feedback-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 100px;
+}
+
+.feedback-titulo {
+    color: #c8102e;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.feedback-texto{
+    color: #2b2d42;
+    text-align: center;
+    margin: -30px 0 40px 0;
+    width: 900px;
+    font-size: 20px;
+}
+
+.avatar-subtitulo {
+    margin-top: -15px;
+    color: #2b2d42;
+    width: 700px;
+    text-align: center;
+}

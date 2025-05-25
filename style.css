@@ -181,7 +181,9 @@
     flex-direction: column;
     align-items: center;
     font-family: "Open Sans", sans-serif;
-    margin-top: 100px;
+    margin: 100px 60px 50px 60px;
+    background-color: #fdf0f5;
+    border-radius: 10px;
 }
 
 .feedback-titulo {
@@ -190,7 +192,7 @@
     font-size: 15px;
 }
 
-.feedback-texto{
+.feedback-texto {
     color: #2b2d42;
     text-align: center;
     margin: -30px 0 40px 0;
@@ -200,7 +202,56 @@
 
 .avatar-subtitulo {
     margin-top: -15px;
-    color: #2b2d42;
+    color: #7f7f7f;
     width: 700px;
     text-align: center;
+}
+
+.newsletter {
+    text-align: center;
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+}
+
+.rodape-titulo {
+    font-family: "Open Sans", sans-serif;
+}
+
+.rodape-subtitulo {
+    font-family: "Open Sans", sans-serif;
+    color: #7f7f7f;
+    margin-top: -10px;
+}
+
+.rodape-texto{
+    font-family: "Open Sans", sans-serif;
+    color: #7f7f7f;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+.form-newsletter {
+    margin-top: 30px;
+}
+
+.form-newsletter input {
+    padding: 10px;
+    width: 250px;
+    max-width: 80%;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+}
+
+.form-newsletter button {
+    padding: 10px 20px;
+    background-color: #c8102e;
+    border: 1px solid #c8102e;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.form-newsletter button:hover {
+    background-color: #600000;
 }

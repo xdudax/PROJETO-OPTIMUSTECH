@@ -5,8 +5,7 @@ Este site tem como objetivo apresentar a empresa e atrair novos candidatos para 
 
 ## 🔗 Link do site
 
-(https://xdudax.github.io/PROJETO-OPTIMUSTECH/)
-
+[https://xdudax.github.io/OptimusTech](https://xdudax.github.io/OptimusTech) 
 ## 💻 Tecnologias utilizadas
 
 - HTML5
@@ -53,4 +52,4 @@ Maio de 2025
 
 Eduarda Santos  
 📧 eduardasantos2806@gmail.com  
-🔗 [https://github.com/xdudax]
+🔗 [https://github.com/xdudax](https://github.com/xdudax)

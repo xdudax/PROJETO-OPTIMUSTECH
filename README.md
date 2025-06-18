@@ -5,7 +5,7 @@ Este site tem como objetivo apresentar a empresa e atrair novos candidatos para 
 
 ## 🔗 Link do site
 
-[https://xdudax.github.io/OptimusTech/](https://xdudax.github.io/PROJETO-OPTIMUSTECH/)
+[https://xdudax.github.io/PROJETO-OPTIMUSTECH/](https://xdudax.github.io/PROJETO-OPTIMUSTECH/)
 ## 💻 Tecnologias utilizadas
 
 - HTML5
